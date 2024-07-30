@@ -1,4 +1,6 @@
+# CarTalk AI (Google-palm-LLM)
 
-CarSelector (Google-Palm-LLM)
+## In this repo we done a llm model that is connected to a SQL database.
+## When question made it makes a query and get the answer from the SQL database.
 
-This repository features a Large Language Model (LLM) integrated with a SQL database. Upon receiving a query, the model executes a SQL query to fetch the relevant information from the database.
+
